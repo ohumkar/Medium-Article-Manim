@@ -1,0 +1,5 @@
+file 'C:/Manim/manim/manim_omkar/media/videos/sigmoid/480p15/partial_movie_files/Track/00000.mp4'
+file 'C:/Manim/manim/manim_omkar/media/videos/sigmoid/480p15/partial_movie_files/Track/00001.mp4'
+file 'C:/Manim/manim/manim_omkar/media/videos/sigmoid/480p15/partial_movie_files/Track/00002.mp4'
+file 'C:/Manim/manim/manim_omkar/media/videos/sigmoid/480p15/partial_movie_files/Track/00003.mp4'
+file 'C:/Manim/manim/manim_omkar/media/videos/sigmoid/480p15/partial_movie_files/Track/00004.mp4'

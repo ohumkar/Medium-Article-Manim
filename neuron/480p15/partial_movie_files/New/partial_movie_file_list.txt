@@ -1,0 +1,5 @@
+file 'C:/Manim/manim/manim_omkar/media/videos/neuron/480p15/partial_movie_files/New/00000.mp4'
+file 'C:/Manim/manim/manim_omkar/media/videos/neuron/480p15/partial_movie_files/New/00001.mp4'
+file 'C:/Manim/manim/manim_omkar/media/videos/neuron/480p15/partial_movie_files/New/00002.mp4'
+file 'C:/Manim/manim/manim_omkar/media/videos/neuron/480p15/partial_movie_files/New/00003.mp4'
+file 'C:/Manim/manim/manim_omkar/media/videos/neuron/480p15/partial_movie_files/New/00004.mp4'
